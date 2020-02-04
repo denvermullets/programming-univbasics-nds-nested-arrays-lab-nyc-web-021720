@@ -29,7 +29,7 @@ def assembled_matrix
   
   # food_shelf
   
-  food_shelf = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
+  food_shelf = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
   
 end
 
